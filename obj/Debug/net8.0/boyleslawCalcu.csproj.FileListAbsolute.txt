@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\bin\Debug\net8.0\boyleslawCalcu.exe
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\bin\Debug\net8.0\boyleslawCalcu.deps.json
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\bin\Debug\net8.0\boyleslawCalcu.runtimeconfig.json
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\bin\Debug\net8.0\boyleslawCalcu.dll
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\bin\Debug\net8.0\boyleslawCalcu.pdb
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\obj\Debug\net8.0\boyleslawCalcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\obj\Debug\net8.0\boyleslawCalcu.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\obj\Debug\net8.0\boyleslawCalcu.AssemblyInfo.cs
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\obj\Debug\net8.0\boyleslawCalcu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\obj\Debug\net8.0\boyleslawCalcu.dll
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\obj\Debug\net8.0\refint\boyleslawCalcu.dll
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\obj\Debug\net8.0\boyleslawCalcu.pdb
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\obj\Debug\net8.0\boyleslawCalcu.genruntimeconfig.cache
+C:\Users\Admin\Downloads\coding stuff\boyleslawCalcu\boyleslawCalcu\obj\Debug\net8.0\ref\boyleslawCalcu.dll
